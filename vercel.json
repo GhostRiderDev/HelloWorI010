@@ -5,7 +5,7 @@
         "headers": [
           {
             "key": "Access-Control-Allow-Origin",
-            "value": "https://pf-henry-front-rouge.vercel.app"
+            "value": "https://hello-wor-i010.vercel.app/"
           },
           {
             "key": "Access-Control-Allow-Methods",
